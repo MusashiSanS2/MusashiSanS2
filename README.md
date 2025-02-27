@@ -22,6 +22,14 @@
 
 ---
 
+### 📜 Certifications
+
+- [Getting Started with Programming Career](https://cursos.alura.com.br/user/migueldinogamer/course/comecando-programacao-carreira-primeiros-passos/certificate?lang=en)
+- [Programming Logic: Functions and Lists](https://cursos.alura.com.br/user/migueldinogamer/course/logica-programacao-funcoes-listas/certificate?lang=en)
+- [Programming Logic: Dive into JavaScript](https://cursos.alura.com.br/user/migueldinogamer/course/logica-programacao-mergulhe-programacao-javascript/certificate?lang=en)
+
+---
+
 ### ⚡ GitHub Statistics
 
 ![Lemos Dev GitHub Stats](https://github-readme-stats.vercel.app/api?username=MusashiSanS2&show_icons=true&theme=dark)
@@ -34,6 +42,6 @@
 
 ### 📫 How to reach me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lemos-dev-72a0312a9/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev_lemos/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lemos-dev-72a0312a9/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/dev_lemos/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:musashi@amathyzin.com)
