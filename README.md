@@ -27,6 +27,7 @@
 - [Getting Started with Programming Career](https://cursos.alura.com.br/user/migueldinogamer/course/comecando-programacao-carreira-primeiros-passos/certificate?lang=en)
 - [Programming Logic: Functions and Lists](https://cursos.alura.com.br/user/migueldinogamer/course/logica-programacao-funcoes-listas/certificate?lang=en)
 - [Programming Logic: Dive into JavaScript](https://cursos.alura.com.br/user/migueldinogamer/course/logica-programacao-mergulhe-programacao-javascript/certificate?lang=en)
+- [Git and Github: how to use git and github](https://cursos.alura.com.br/user/migueldinogamer/course/git-github-compartilhando-colaborando-projetos/certificate?lang=en)
 
 ---
 
