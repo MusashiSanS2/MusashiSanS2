@@ -1,6 +1,6 @@
 ### ✨ Hello, I'm Lemos Dev! ✨
 
-- 🌐 My portfolio: https://lemosdev.vercel.app/audiovisuais.html
+- 🌐 My portfolio: https://lemosdev.vercel.app/
 - 🚀 Starting my journey in the development field.
 - 🔥 Knowledge in programming logic using **JavaScript**, **Git**, and **GitHub**.
 - 🌱 Currently exploring new technologies such as **C#**, **JavaScript**, **HTML & CSS**, and **Python**.
