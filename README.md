@@ -11,7 +11,7 @@
 </p>
 
 <!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=+%7C+eoMiggs+%7C+lemosdev;Construindo+agentes+de+IA+e+sistemas+distribu%C3%ADdos;Self-taught+%C2%B7+Full-Stack+%C2%B7+Low-level+curious;Building+Pitonisia+%E2%80%94+a+Jarvis-style+AI+assistant" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Musashi+%7C+eoMiggs+%7C+lemosdev;construindo+agentes+de+IA+e+sistemas+distribu%C3%ADdos;Self-taught+%C2%B7+Full-Stack+%C2%B7+Low-level+curious;Building+Pitonisia+%E2%80%94+a+Jarvis-style+AI+assistant" alt="Typing SVG" />
 
 </div>
 
