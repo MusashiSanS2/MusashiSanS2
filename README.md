@@ -11,7 +11,7 @@
 </p>
 
 <!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Musashi+%7C+eoMiggs+%7C+lemosdev;construindo+agentes+de+IA+e+sistemas+distribu%C3%ADdos;Self-taught+%C2%B7+Full-Stack+%C2%B7+Low-level+curious;Building+Pitonisia+%E2%80%94+a+Jarvis-style+AI+assistant" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Osamabin+%7C+eoMiggs+%7C+lemosdev;Construindo+agentes+de+IA+e+sistemas+distribu%C3%ADdos;Self-taught+%C2%B7+Full-Stack+%C2%B7+Low-level+curious;Building+Pitonisia+%E2%80%94+a+Jarvis-style+AI+assistant" alt="Typing SVG" />
 
 </div>
 
@@ -38,7 +38,7 @@ Sou desenvolvedor full-stack autodidata e arquiteto de agentes de IA, baseado pe
 </td>
 <td width="35%" valign="top" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MusashiSanS2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MusashiSanS2&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&count_private=true&include_all_commits=true" width="100%"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MusashiSanS2&theme=tokyonight&hide_border=true" width="100%"/>
 
@@ -49,9 +49,25 @@ Sou desenvolvedor full-stack autodidata e arquiteto de agentes de IA, baseado pe
 ### Stack & Ferramentas
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,php,laravel,python,rust,cpp&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,vue,angular,svelte,nextjs,astro,remix,nestjs&theme=dark" />
 <br>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,docker,linux,git,github,vercel,figma,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,py,rust,go,java,kotlin,swift,cs,cpp,php&theme=dark" />
+<br>
+<img src="https://skillicons.dev/icons?i=laravel,rails,django,fastapi,spring,elixir,haskell,scala,dart,flutter&theme=dark" />
+<br>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis,prisma,supabase,firebase,elasticsearch,kafka&theme=dark" />
+<br>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,terraform,linux,nginx,rabbitmq,prometheus,grafana&theme=dark" />
+<br>
+<img src="https://skillicons.dev/icons?i=git,github,tailwind,figma,threejs,solidity,pytorch,tensorflow,bun,deno,vscode&theme=dark" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+<img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white" />
 </p>
 
 ### Projetos em destaque
@@ -97,7 +113,7 @@ Je suis développeur full-stack autodidacte et architecte d'agents IA, basé pr�
 </td>
 <td width="35%" valign="top" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MusashiSanS2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MusashiSanS2&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&count_private=true&include_all_commits=true" width="100%"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MusashiSanS2&theme=tokyonight&hide_border=true" width="100%"/>
 
@@ -108,9 +124,25 @@ Je suis développeur full-stack autodidacte et architecte d'agents IA, basé pr�
 ### Stack & Outils
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,php,laravel,python,rust,cpp&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,vue,angular,svelte,nextjs,astro,remix,nestjs&theme=dark" />
 <br>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,docker,linux,git,github,vercel,figma,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,py,rust,go,java,kotlin,swift,cs,cpp,php&theme=dark" />
+<br>
+<img src="https://skillicons.dev/icons?i=laravel,rails,django,fastapi,spring,elixir,haskell,scala,dart,flutter&theme=dark" />
+<br>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis,prisma,supabase,firebase,elasticsearch,kafka&theme=dark" />
+<br>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,terraform,linux,nginx,rabbitmq,prometheus,grafana&theme=dark" />
+<br>
+<img src="https://skillicons.dev/icons?i=git,github,tailwind,figma,threejs,solidity,pytorch,tensorflow,bun,deno,vscode&theme=dark" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+<img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white" />
 </p>
 
 ### Projets phares
@@ -156,7 +188,7 @@ I'm a self-taught full-stack developer and AI agent architect, based near Paris.
 </td>
 <td width="35%" valign="top" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MusashiSanS2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MusashiSanS2&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&count_private=true&include_all_commits=true" width="100%"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MusashiSanS2&theme=tokyonight&hide_border=true" width="100%"/>
 
@@ -167,9 +199,25 @@ I'm a self-taught full-stack developer and AI agent architect, based near Paris.
 ### Stack & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,php,laravel,python,rust,cpp&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,vue,angular,svelte,nextjs,astro,remix,nestjs&theme=dark" />
 <br>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,docker,linux,git,github,vercel,figma,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,py,rust,go,java,kotlin,swift,cs,cpp,php&theme=dark" />
+<br>
+<img src="https://skillicons.dev/icons?i=laravel,rails,django,fastapi,spring,elixir,haskell,scala,dart,flutter&theme=dark" />
+<br>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis,prisma,supabase,firebase,elasticsearch,kafka&theme=dark" />
+<br>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,terraform,linux,nginx,rabbitmq,prometheus,grafana&theme=dark" />
+<br>
+<img src="https://skillicons.dev/icons?i=git,github,tailwind,figma,threejs,solidity,pytorch,tensorflow,bun,deno,vscode&theme=dark" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+<img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white" />
 </p>
 
 ### Featured projects
@@ -197,13 +245,6 @@ I'm a self-taught full-stack developer and AI agent architect, based near Paris.
 ---
 
 <div align="center">
-
-<!-- Snake animation da grade de contribuições -->
-<img src="https://raw.githubusercontent.com/MusashiSanS2/MusashiSanS2/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-<sub>Requer o workflow do <a href="https://github.com/Platane/snk">snk</a> configurado no repositório — ver instruções abaixo.</sub>
-
-<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
 
