@@ -29,18 +29,17 @@
 
 Sou desenvolvedor full-stack autodidata e arquiteto de agentes de IA, baseado perto de Paris. Trabalho na fronteira entre aplicações web robustas e sistemas de IA local-first — do frontend ao firmware, gosto de entender como as coisas funcionam por baixo do capô.
 
-- **Trabalhando atualmente em:** Pitonisia — um assistente estilo Jarvis com modelo de roteamento próprio (fine-tuned 3B), backend PHP e integração MCP
-- **Aprendendo:** arquitetura de agentes, segurança de baixo nível (Intel ME, anéis de privilégio), Rust
-- **Freelance** em parceria com [Matheus](https://damodara.xyz) e projeto próprio em [lemosdev.online](https://lemosdev.online)
+- **Trabalhando atualmente em:** Pitonisia — um assistente estilo Jarvis com modelo de roteamento próprio (fine-tuned 3B)
+- **Aprendendo:** arquitetura de agentes, Ring -1 e arquitetura de privilégio de CPU, Rust
 - Crio conteúdo de dev sob a marca eoMiggs no YouTube/Twitch
 - Falo Português · Français · English
 
 </td>
 <td width="35%" valign="top" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MusashiSanS2&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&count_private=true&include_all_commits=true" width="100%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=MusashiSanS2&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&count_private=true&include_all_commits=true" width="100%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MusashiSanS2&theme=tokyonight&hide_border=true" width="100%"/>
+<img src="https://streak-stats.demolab.com/?user=MusashiSanS2&theme=tokyonight&hide_border=true" width="100%"/>
 
 </td>
 </tr>
@@ -74,7 +73,7 @@ Sou desenvolvedor full-stack autodidata e arquiteto de agentes de IA, baseado pe
 
 | Projeto | Descrição |
 |---|---|
-| **Pitonisia** | Assistente estilo Jarvis com modelo de roteamento fine-tuned, backend PHP em VPS Oracle Cloud ARM64, integração MCP e comunidade no Discord |
+| **Pitonisia** | Assistente estilo Jarvis com modelo de roteamento próprio e comunidade no Discord |
 | **lemosdev.online** | Portfólio full-stack em Next.js voltado ao mercado europeu, com suporte multilíngue |
 
 ### Atividade recente
@@ -104,18 +103,17 @@ Sou desenvolvedor full-stack autodidata e arquiteto de agentes de IA, baseado pe
 
 Je suis développeur full-stack autodidacte et architecte d'agents IA, basé près de Paris. Je travaille à la frontière entre applications web robustes et systèmes d'IA local-first — du frontend au firmware, j'aime comprendre comment les choses fonctionnent en dessous.
 
-- **En ce moment sur :** Pitonisia — un assistant façon Jarvis avec son propre modèle de routage (fine-tuné, 3B), backend PHP et intégration MCP
-- **En apprentissage :** architecture d'agents, sécurité bas niveau (Intel ME, anneaux de privilège), Rust
-- **Freelance** en partenariat avec [Matheus](https://damodara.xyz) et projet perso sur [lemosdev.online](https://lemosdev.online)
+- **En ce moment sur :** Pitonisia — un assistant façon Jarvis avec son propre modèle de routage (fine-tuné, 3B)
+- **En apprentissage :** architecture d'agents, Ring -1 et architecture de privilège CPU, Rust
 - Je crée du contenu dev sous le nom eoMiggs sur YouTube/Twitch
 - Je parle Português · Français · English
 
 </td>
 <td width="35%" valign="top" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MusashiSanS2&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&count_private=true&include_all_commits=true" width="100%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=MusashiSanS2&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&count_private=true&include_all_commits=true" width="100%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MusashiSanS2&theme=tokyonight&hide_border=true" width="100%"/>
+<img src="https://streak-stats.demolab.com/?user=MusashiSanS2&theme=tokyonight&hide_border=true" width="100%"/>
 
 </td>
 </tr>
@@ -149,7 +147,7 @@ Je suis développeur full-stack autodidacte et architecte d'agents IA, basé pr�
 
 | Projet | Description |
 |---|---|
-| **Pitonisia** | Assistant façon Jarvis avec modèle de routage fine-tuné, backend PHP sur VPS Oracle Cloud ARM64, intégration MCP et communauté Discord |
+| **Pitonisia** | Assistant façon Jarvis avec son propre modèle de routage et une communauté Discord |
 | **lemosdev.online** | Portfolio full-stack en Next.js pensé pour le marché européen, avec support multilingue |
 
 ### Activité récente
@@ -179,18 +177,17 @@ Je suis développeur full-stack autodidacte et architecte d'agents IA, basé pr�
 
 I'm a self-taught full-stack developer and AI agent architect, based near Paris. I work at the intersection of robust web applications and local-first AI systems — from frontend to firmware, I like understanding how things work under the hood.
 
-- **Currently working on:** Pitonisia — a Jarvis-style assistant with its own fine-tuned 3B routing model, PHP backend, and MCP integration
-- **Learning:** agent architecture, low-level security (Intel ME, privilege rings), Rust
-- **Freelancing** alongside [Matheus](https://damodara.xyz), plus my own project at [lemosdev.online](https://lemosdev.online)
+- **Currently working on:** Pitonisia — a Jarvis-style assistant with its own fine-tuned 3B routing model
+- **Learning:** agent architecture, Ring -1 and CPU privilege architecture, Rust
 - I create dev content under the brand eoMiggs on YouTube/Twitch
 - I speak Português · Français · English
 
 </td>
 <td width="35%" valign="top" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MusashiSanS2&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&count_private=true&include_all_commits=true" width="100%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=MusashiSanS2&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&count_private=true&include_all_commits=true" width="100%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MusashiSanS2&theme=tokyonight&hide_border=true" width="100%"/>
+<img src="https://streak-stats.demolab.com/?user=MusashiSanS2&theme=tokyonight&hide_border=true" width="100%"/>
 
 </td>
 </tr>
@@ -224,7 +221,7 @@ I'm a self-taught full-stack developer and AI agent architect, based near Paris.
 
 | Project | Description |
 |---|---|
-| **Pitonisia** | Jarvis-style assistant with a fine-tuned routing model, PHP backend on an Oracle Cloud ARM64 VPS, MCP integration, and a Discord community |
+| **Pitonisia** | Jarvis-style assistant with its own routing model and a Discord community |
 | **lemosdev.online** | Full-stack Next.js portfolio built for the European market, with multilingual support |
 
 ### Recent activity
