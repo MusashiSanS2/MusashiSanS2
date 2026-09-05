@@ -86,7 +86,7 @@ Sou desenvolvedor full-stack autodidata e arquiteto de agentes de IA, baseado pe
 <a href="https://lemosdev.online" target="_blank"><img src="https://img.shields.io/badge/Portfólio-lemosdev.online-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://www.youtube.com/@eoMiggs" target="_blank"><img src="https://img.shields.io/badge/YouTube-eoMiggs-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 <a href="https://www.twitch.tv/eomiggs" target="_blank"><img src="https://img.shields.io/badge/Twitch-eoMiggs-9146FF?style=for-the-badge&logo=twitch&logoColor=white" /></a>
-<a href="https://www.instagram.com/dev_lemos/" target="_blank"><img src="https://img.shields.io/badge/Instagram-eoMiggs-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://www.instagram.com/dev_lemos/" target="_blank"><img src="https://img.shields.io/badge/Instagram-dev_lemos-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 <div align="right"><a href="#musashisans2">voltar ao topo</a></div>
