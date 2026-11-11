@@ -19,23 +19,14 @@ Sou desenvolvedor full-stack autodidata, também conhecido como eoMiggs, baseado
 </tr>
 </table>Stack & Ferramentas
 <p>
-<img src="https://skillicons.dev/icons?i=js,ts,react,vue,angular,svelte,nextjs,astro,remix,nestjs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,js,ts,react,nextjs,vue,php,mysql&theme=dark" />
 <br>
-<img src="https://skillicons.dev/icons?i=nodejs,py,rust,go,java,kotlin,swift,cs,cpp,php&theme=dark" />
+<img src="https://skillicons.dev/icons?i=rust,cs,cpp,java,sqlite,prisma,supabase,pytorch&theme=dark" />
 <br>
-<img src="https://skillicons.dev/icons?i=laravel,rails,django,fastapi,spring,elixir,haskell,scala,dart,flutter&theme=dark" />
-<br>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis,prisma,supabase,firebase,elasticsearch,kafka&theme=dark" />
-<br>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,terraform,linux,nginx,rabbitmq,prometheus,grafana&theme=dark" />
-<br>
-<img src="https://skillicons.dev/icons?i=git,github,tailwind,figma,threejs,solidity,pytorch,tensorflow,bun,deno,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode&theme=dark" />
 </p><p>
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
-<img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white" />
+<img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA" />
+<img src="https://img.shields.io/badge/ROCm-ED1C24?style=for-the-badge&logo=amd&logoColor=white" alt="ROCm" />
 </p>Projetos em destaque
 Projeto	Descrição
 Pitonisia	Ferramenta de automação do computador orientada por IA, que interpreta solicitações em linguagem natural e executa ações de acordo com as instruções do usuário.
@@ -62,23 +53,14 @@ Je suis développeur full-stack autodidacte, également connu sous le nom d’eo
 </tr>
 </table>Stack & Outils
 <p>
-<img src="https://skillicons.dev/icons?i=js,ts,react,vue,angular,svelte,nextjs,astro,remix,nestjs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,js,ts,react,nextjs,vue,php,mysql&theme=dark" />
 <br>
-<img src="https://skillicons.dev/icons?i=nodejs,py,rust,go,java,kotlin,swift,cs,cpp,php&theme=dark" />
+<img src="https://skillicons.dev/icons?i=rust,cs,cpp,java,sqlite,prisma,supabase,pytorch&theme=dark" />
 <br>
-<img src="https://skillicons.dev/icons?i=laravel,rails,django,fastapi,spring,elixir,haskell,scala,dart,flutter&theme=dark" />
-<br>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis,prisma,supabase,firebase,elasticsearch,kafka&theme=dark" />
-<br>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,terraform,linux,nginx,rabbitmq,prometheus,grafana&theme=dark" />
-<br>
-<img src="https://skillicons.dev/icons?i=git,github,tailwind,figma,threejs,solidity,pytorch,tensorflow,bun,deno,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode&theme=dark" />
 </p><p>
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
-<img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white" />
+<img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA" />
+<img src="https://img.shields.io/badge/ROCm-ED1C24?style=for-the-badge&logo=amd&logoColor=white" alt="ROCm" />
 </p>Projets phares
 Projet	Description
 Pitonisia	Outil d’automatisation du PC assisté par IA, qui interprète les demandes en langage naturel et exécute des actions selon les instructions de l’utilisateur.
@@ -105,23 +87,14 @@ I'm a self-taught full-stack developer, also known as eoMiggs, based near Paris.
 </tr>
 </table>Stack & Tools
 <p>
-<img src="https://skillicons.dev/icons?i=js,ts,react,vue,angular,svelte,nextjs,astro,remix,nestjs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,js,ts,react,nextjs,vue,php,mysql&theme=dark" />
 <br>
-<img src="https://skillicons.dev/icons?i=nodejs,py,rust,go,java,kotlin,swift,cs,cpp,php&theme=dark" />
+<img src="https://skillicons.dev/icons?i=rust,cs,cpp,java,sqlite,prisma,supabase,pytorch&theme=dark" />
 <br>
-<img src="https://skillicons.dev/icons?i=laravel,rails,django,fastapi,spring,elixir,haskell,scala,dart,flutter&theme=dark" />
-<br>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis,prisma,supabase,firebase,elasticsearch,kafka&theme=dark" />
-<br>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,terraform,linux,nginx,rabbitmq,prometheus,grafana&theme=dark" />
-<br>
-<img src="https://skillicons.dev/icons?i=git,github,tailwind,figma,threejs,solidity,pytorch,tensorflow,bun,deno,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode&theme=dark" />
 </p><p>
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
-<img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white" />
+<img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA" />
+<img src="https://img.shields.io/badge/ROCm-ED1C24?style=for-the-badge&logo=amd&logoColor=white" alt="ROCm" />
 </p>Featured projects
 Project	Description
 Pitonisia	AI-powered PC automation tool that interprets natural-language requests and carries out actions according to the user’s instructions.
